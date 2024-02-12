@@ -1,5 +1,5 @@
 #root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
   margin: 0 auto;
@@ -13,7 +13,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-color: #ff9993;
+  background-color: rgb(245, 186, 186)
 }
 
 h1 {
@@ -29,7 +29,7 @@ button {
   margin: 0.5rem;
   font-weight: 500;
   font-family: inherit;
-  background-color: #ff505c;
+  background-color: rgb(240, 41, 41);
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -46,7 +46,7 @@ button:focus-visible {
 .text{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 30px;
-  color: yellow;
+  color: rgb(95, 117, 227);
   font-weight: 500;
   margin: 10px;
 }
